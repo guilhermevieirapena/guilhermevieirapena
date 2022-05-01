@@ -1,4 +1,4 @@
-# Olá! Meu nome é GuilhermeVi.
+# Prazer! Meu nome é GuilhermeVi.
 Estudante de Análise e Desenvolvimento de Sistemas
 
 ##
