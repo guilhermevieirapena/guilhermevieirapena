@@ -1,4 +1,4 @@
-# Prazer! Meu nome é Guilherme Vieira.
+# Olá, Meu nome é Guilherme Vieira.
 Estudante de Análise e Desenvolvimento de Sistemas
 
 ##
