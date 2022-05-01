@@ -1,7 +1,6 @@
 # Olá, Meu nome é Guilherme Vieira.
-Estudante de Análise e Desenvolvimento de Sistemas
-
-##
+<div align="center"> Análista e Desenvolvedor de Sistemas
+</div> <br>
 
 <div align="center">
   <a href="https://github.com/guilhermevieirapena">
