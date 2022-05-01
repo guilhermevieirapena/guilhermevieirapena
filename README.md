@@ -1,5 +1,5 @@
 # Olá, Meu nome é Guilherme Vieira.
-<div align="center"> Análista e Desenvolvedor de Sistemas
+<div align="center"> Estudante de Análise e Desenvolvimento de Sistemas
 </div> <br>
 
 <div align="center">
